@@ -30,10 +30,9 @@ E. Mark which of the following characteristics Javascript presents
 
 F. Is Javascript Object Oriented? 
 
-Yes (x) 
-No
+Yes(x)   No
 
-Briefly describe why:JavaScript is a multi-paradigm scripting language. It can supports different programming styles, like Object Oriented and Functional
+Briefly describe why: JavaScript is a multi-paradigm scripting language. It can supports different programming styles, like Object Oriented and Functional
 
 
 
